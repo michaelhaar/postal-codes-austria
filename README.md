@@ -29,11 +29,11 @@ We want to create a [choropleth map](https://www.data-to-viz.com/graph/choroplet
 > Unseres Wissens nach gibt es derzeit keinen frei erhältlichen Datensatz, der die Postleitzahlen (in einer Genauigkeit bis zur 4. Stelle) als Fläche darstellt. Ich glaube einmal gehört zu haben, dass die Post sich selber so einen Flächen-Datensatz berechnet, aber selbst, wenn das stimmt, ist dieser nicht frei verfügbar... [source](https://www.openstreetmap.at/frage/postleitzahlen-at/answer/1659/)
 
 - Gfk seems to sell them add around 750€. see:
-  - https://geodata.gfk.com/maps
-  - https://shop.gfk-geomarketing.de/en/european-countries.html
-  - https://www.gfk.com/hubfs/GeoData/Downloads/EN_GfK_Worldwide_digital_maps_without%20prices_alle%20Formate.pdf?hsCtaTracking=e3c24b98-0675-4862-98b0-ec817063d674%7Cb5e23eec-235f-423b-97b0-5b0a58470bcf
-- Mapbox also seems to have such data. see: https://www.mapbox.com/boundaries
-- Such maps can also be created with MS Excel. see: https://support.microsoft.com/en-us/office/create-a-map-chart-in-excel-f2cfed55-d622-42cd-8ec9-ec8a358b593b
+  - [Geodata Maps | GfK Global](https://geodata.gfk.com/maps)
+  - [Shop GfK Europe Map Edition](https://shop.gfk-geomarketing.de/en/european-countries.html)
+  - [GfK worldwide digital maps pdf](https://www.gfk.com/hubfs/GeoData/Downloads/EN_GfK_Worldwide_digital_maps_without%20prices_alle%20Formate.pdf?hsCtaTracking=e3c24b98-0675-4862-98b0-ec817063d674%7Cb5e23eec-235f-423b-97b0-5b0a58470bcf)
+- Mapbox also seems to have such data. see: [Boundary Maps for State, County, City & Zipcode | Mapbox](https://www.mapbox.com/boundaries)
+- Such maps can also be created with MS Excel. see: [Create a Map chart in Excel](https://support.microsoft.com/en-us/office/create-a-map-chart-in-excel-f2cfed55-d622-42cd-8ec9-ec8a358b593b)
   - Seems to be powered be TomTom or Bing?
 
 ## Pre-Condition
