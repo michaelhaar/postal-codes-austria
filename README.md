@@ -8,6 +8,8 @@ Looking for
 
 Interested in the code? => Read on!
 
+![docs/preview.png](docs/preview.png)
+
 ## TLDR ✅
 
 We started with two images and used some clever image processing in order to automatically generate the required output files. (.shp data containing the postal code areas of Austria)
