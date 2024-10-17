@@ -12,8 +12,8 @@ export type ChoroplethMapData = {
 
 type Props = {
   data: ChoroplethMapData;
-  width?: number;
-  height?: number;
+  width?: string | number;
+  height?: string | number;
 }
 
 export function AustriaPostalCodeChoroplethMap({data, width, height}: Props) {
